@@ -6,7 +6,7 @@ html body {
 	margin: 0;
 	padding: 0;
 	color: #FFBAEF ; /* Text Color */
-	font-family: chicle ; /* Font for the text */
+	font-family: comic sans ms ; /* Font for the text */
 	font-weight: normal ; /* Weight for the text */
 	font-size: 1em;
 }
@@ -15,14 +15,14 @@ h1, h2, h3, h4, h5, h6 {
 	vertical-align: top;
 	color: #FFE8BF; /* Color for headers */
 	font-weight: ; /* Weight for headers */
-	font-family: chewy;
+	font-family: comic sans ms;
 	font-size: 20px;
 	text-align: center;
 }
 h7 { vertical-align: top;
 	color:#AFFCC8; /* Color for headers */
 	font-style: normal;
-	font-family: chewy;
+	font-family: comic sans ms;
 	font-size: 20px;}
 header, section {
 	vertical-align: top;
@@ -46,7 +46,7 @@ input {
 	width: 25%;
 	background-color: #B1E5EC;
 	color: #0B3F25;
-	font-family: "allan";
+	font-family: "comic sans ms";
 	border: 2px solid #FDFFDC;
 	font-size: 15px;
 	height: 20px;
@@ -57,7 +57,7 @@ tbody {
 }
 input[type=submit] {
 	background-color: yellowgreen;
-	font-family: chicle;
+	font-family: comic sans ms;
 	color: #092703;
 	font-size: 20px;
 	width: 18%;
